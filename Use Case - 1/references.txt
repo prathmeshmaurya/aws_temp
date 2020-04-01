@@ -5,3 +5,5 @@ USE CASE - 1
 2. Using AWS Lambda with Amazon S3	-	https://docs.aws.amazon.com/lambda/latest/dg/with-s3-example.html
 
 3. Creating lambda function using CloudFormation stack	-	https://www.youtube.com/watch?v=2OQvENfXMmM
+
+4. How to execute lambda functions on s3 triggers	-	https://n2ws.com/blog/aws-automation/lambda-function-s3-event-triggers
