@@ -25,7 +25,3 @@ def test_multiply():
     value = calculator.multiply(NUMBER_1, NUMBER_2)
     assert value == 6.0
 
-
-def test_divide():
-    value = calculator.divide(NUMBER_1, NUMBER_2)
-    assert value == 1.5
